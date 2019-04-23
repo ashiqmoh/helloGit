@@ -6,3 +6,7 @@ html {
 body {
   background: #eee;
 }
+
+p {
+  font-family: Arial;
+}
