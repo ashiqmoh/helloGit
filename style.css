@@ -6,3 +6,7 @@ html {
 body {
   background: #eee;
 }
+
+p {
+  font-size: 10px;
+}
